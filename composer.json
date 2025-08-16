@@ -1,6 +1,6 @@
 {
     "name": "groton-school/slim-canvas-api-proxy",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "GPL-3.0",
     "autoload": {
         "psr-4": {
@@ -23,7 +23,7 @@
     ],
     "require": {
         "groton-school/oauth2-canvaslms": "^1.1",
-        "groton-school/slim-oauth2-api-proxy": "dev-main"
+        "groton-school/slim-oauth2-api-proxy": "^1.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "*",

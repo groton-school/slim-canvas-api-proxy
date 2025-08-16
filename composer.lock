@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a3abc45ff0eeb18fa97b531960f4eb02",
+    "content-hash": "61f9385dc16f99fd1d52a64f53e8bcb2",
     "packages": [
         {
             "name": "dflydev/fig-cookies",
@@ -168,16 +168,16 @@
         },
         {
             "name": "groton-school/slim-oauth2-api-proxy",
-            "version": "dev-main",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/groton-school/slim-oauth2-api-proxy.git",
-                "reference": "19812ca190ad1607343bde71a6541a5cd8842d7f"
+                "reference": "72fdadb30c0b82255e5b284c0ad5b0289e113511"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/groton-school/slim-oauth2-api-proxy/zipball/19812ca190ad1607343bde71a6541a5cd8842d7f",
-                "reference": "19812ca190ad1607343bde71a6541a5cd8842d7f",
+                "url": "https://api.github.com/repos/groton-school/slim-oauth2-api-proxy/zipball/72fdadb30c0b82255e5b284c0ad5b0289e113511",
+                "reference": "72fdadb30c0b82255e5b284c0ad5b0289e113511",
                 "shasum": ""
             },
             "require": {
@@ -197,7 +197,6 @@
                 "friendsofphp/php-cs-fixer": "^3.76",
                 "marcocesarato/php-conventional-changelog": "^1.17"
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -214,12 +213,12 @@
                     "email": "sbattis@groton.org"
                 }
             ],
-            "description": "Server-side actions and routes for authenticating to and accessing the an OAuth2 API from a web client",
+            "description": "Server-side actions and routes for authenticating to and accessing an REST API from a web client",
             "support": {
                 "issues": "https://github.com/groton-school/slim-oauth2-api-proxy/issues",
-                "source": "https://github.com/groton-school/slim-oauth2-api-proxy/tree/main"
+                "source": "https://github.com/groton-school/slim-oauth2-api-proxy/tree/v1.0.0"
             },
-            "time": "2025-08-15T22:40:29+00:00"
+            "time": "2025-08-16T23:42:46+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -1003,16 +1002,16 @@
         },
         {
             "name": "php-di/php-di",
-            "version": "7.1.0",
+            "version": "7.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHP-DI/PHP-DI.git",
-                "reference": "0543ee1130e2e2c2ffcade6f326d3951a0dd3fb3"
+                "reference": "f88054cc052e40dbe7b383c8817c19442d480352"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHP-DI/PHP-DI/zipball/0543ee1130e2e2c2ffcade6f326d3951a0dd3fb3",
-                "reference": "0543ee1130e2e2c2ffcade6f326d3951a0dd3fb3",
+                "url": "https://api.github.com/repos/PHP-DI/PHP-DI/zipball/f88054cc052e40dbe7b383c8817c19442d480352",
+                "reference": "f88054cc052e40dbe7b383c8817c19442d480352",
                 "shasum": ""
             },
             "require": {
@@ -1060,7 +1059,7 @@
             ],
             "support": {
                 "issues": "https://github.com/PHP-DI/PHP-DI/issues",
-                "source": "https://github.com/PHP-DI/PHP-DI/tree/7.1.0"
+                "source": "https://github.com/PHP-DI/PHP-DI/tree/7.1.1"
             },
             "funding": [
                 {
@@ -1072,7 +1071,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-08-15T15:21:56+00:00"
+            "time": "2025-08-16T11:10:48+00:00"
         },
         {
             "name": "psr/container",
@@ -4219,9 +4218,7 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "groton-school/slim-oauth2-api-proxy": 20
-    },
+    "stability-flags": {},
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {},
