@@ -4,6 +4,15 @@
 All notable changes to this project will be documented in this file.
 <!--- END HEADER -->
 
+## [2.0.0](https://github.com/groton-school/slim-canvas-api-proxy/compare/v1.0.2...v2.0.0) (2025-09-09)
+
+### ⚠ BREAKING CHANGES
+
+* Support constructor injection by making static members dynamic ([79b8f0](https://github.com/groton-school/slim-canvas-api-proxy/commit/79b8f0eeacbf783fe8da5b0f51683b6644828418))
+
+
+---
+
 ## [1.0.2](https://github.com/groton-school/slim-canvas-api-proxy/compare/v1.0.1...v1.0.2) (2025-09-08)
 
 ### Bug Fixes
