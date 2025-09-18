@@ -4,6 +4,15 @@
 All notable changes to this project will be documented in this file.
 <!--- END HEADER -->
 
+## [2.1.0](https://github.com/groton-school/slim-canvas-api-proxy/compare/v2.0.0...v2.1.0) (2025-09-18)
+
+### Features
+
+* Configurable token storage ([90603a](https://github.com/groton-school/slim-canvas-api-proxy/commit/90603a7aef93005c06a66533901f288a319c03fc))
+
+
+---
+
 ## [2.0.0](https://github.com/groton-school/slim-canvas-api-proxy/compare/v1.0.2...v2.0.0) (2025-09-09)
 
 ### ⚠ BREAKING CHANGES
