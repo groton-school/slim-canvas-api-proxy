@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "aa2f62037b1415f1d3f9e9764b46a6fd",
+    "content-hash": "d26209b4adbec5a85464affdf3ab0bfc",
     "packages": [
         {
             "name": "dflydev/fig-cookies",
@@ -165,16 +165,16 @@
         },
         {
             "name": "groton-school/slim-oauth2-api-proxy",
-            "version": "2.0.0",
+            "version": "3.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/groton-school/slim-oauth2-api-proxy.git",
-                "reference": "c034a4712f87c909cd7548370dc378a8067ffff8"
+                "reference": "cf70333f5ded59e515452c0dd636c78654d2d7b3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/groton-school/slim-oauth2-api-proxy/zipball/c034a4712f87c909cd7548370dc378a8067ffff8",
-                "reference": "c034a4712f87c909cd7548370dc378a8067ffff8",
+                "url": "https://api.github.com/repos/groton-school/slim-oauth2-api-proxy/zipball/cf70333f5ded59e515452c0dd636c78654d2d7b3",
+                "reference": "cf70333f5ded59e515452c0dd636c78654d2d7b3",
                 "shasum": ""
             },
             "require": {
@@ -213,9 +213,9 @@
             "description": "Server-side actions and routes for authenticating to and accessing an REST API from a web client",
             "support": {
                 "issues": "https://github.com/groton-school/slim-oauth2-api-proxy/issues",
-                "source": "https://github.com/groton-school/slim-oauth2-api-proxy/tree/v2.0.0"
+                "source": "https://github.com/groton-school/slim-oauth2-api-proxy/tree/v3.0.0"
             },
-            "time": "2025-09-09T22:09:46+00:00"
+            "time": "2025-09-18T19:23:07+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -2149,16 +2149,16 @@
         },
         {
             "name": "friendsofphp/php-cs-fixer",
-            "version": "v3.87.1",
+            "version": "v3.87.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer.git",
-                "reference": "2f5170365e2a422d0c5421f9c8818b2c078105f6"
+                "reference": "da5f0a7858c79b56fc0b8c36d3efcfe5f37f0992"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHP-CS-Fixer/PHP-CS-Fixer/zipball/2f5170365e2a422d0c5421f9c8818b2c078105f6",
-                "reference": "2f5170365e2a422d0c5421f9c8818b2c078105f6",
+                "url": "https://api.github.com/repos/PHP-CS-Fixer/PHP-CS-Fixer/zipball/da5f0a7858c79b56fc0b8c36d3efcfe5f37f0992",
+                "reference": "da5f0a7858c79b56fc0b8c36d3efcfe5f37f0992",
                 "shasum": ""
             },
             "require": {
@@ -2241,7 +2241,7 @@
             ],
             "support": {
                 "issues": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/issues",
-                "source": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/tree/v3.87.1"
+                "source": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/tree/v3.87.2"
             },
             "funding": [
                 {
@@ -2249,7 +2249,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-09-02T15:27:36+00:00"
+            "time": "2025-09-10T09:51:40+00:00"
         },
         {
             "name": "marcocesarato/php-conventional-changelog",
