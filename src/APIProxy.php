@@ -5,7 +5,6 @@ declare(strict_types=1);
 namespace GrotonSchool\Slim\CanvasLMS;
 
 use GrotonSchool\OAuth2\Client\Provider\CanvasLMS;
-use GrotonSchool\Slim\OAuth2\APIProxy\Domain\AccessToken\AbstractAccessTokenRepository;
 use GrotonSchool\Slim\OAuth2\APIProxy\Domain\Provider\ProviderInterface;
 use GrotonSchool\Slim\OAuth2\APIProxy\Domain\Provider\Defaults;
 

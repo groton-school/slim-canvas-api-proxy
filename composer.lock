@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d26209b4adbec5a85464affdf3ab0bfc",
+    "content-hash": "43c584c2a306d4643ac241911a57ef11",
     "packages": [
         {
             "name": "dflydev/fig-cookies",
@@ -165,16 +165,16 @@
         },
         {
             "name": "groton-school/slim-oauth2-api-proxy",
-            "version": "3.0.0",
+            "version": "3.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/groton-school/slim-oauth2-api-proxy.git",
-                "reference": "cf70333f5ded59e515452c0dd636c78654d2d7b3"
+                "reference": "6b433c54bf512f72da1c39a3a3206fff6da7f955"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/groton-school/slim-oauth2-api-proxy/zipball/cf70333f5ded59e515452c0dd636c78654d2d7b3",
-                "reference": "cf70333f5ded59e515452c0dd636c78654d2d7b3",
+                "url": "https://api.github.com/repos/groton-school/slim-oauth2-api-proxy/zipball/6b433c54bf512f72da1c39a3a3206fff6da7f955",
+                "reference": "6b433c54bf512f72da1c39a3a3206fff6da7f955",
                 "shasum": ""
             },
             "require": {
@@ -213,9 +213,9 @@
             "description": "Server-side actions and routes for authenticating to and accessing an REST API from a web client",
             "support": {
                 "issues": "https://github.com/groton-school/slim-oauth2-api-proxy/issues",
-                "source": "https://github.com/groton-school/slim-oauth2-api-proxy/tree/v3.0.0"
+                "source": "https://github.com/groton-school/slim-oauth2-api-proxy/tree/v3.0.1"
             },
-            "time": "2025-09-18T19:23:07+00:00"
+            "time": "2025-09-18T23:59:23+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
